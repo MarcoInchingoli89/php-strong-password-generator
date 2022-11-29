@@ -22,7 +22,7 @@ require __DIR__ . '/functions.php';
 </head>
 
 <body>
-    <h1>Password Generator</h1>
+    <h1>Strong Password Generator</h1>
     <form action="index.php" method="get">
         <div>
             <label for="charactersNumber">Lunghezza caratteri password:</label>
